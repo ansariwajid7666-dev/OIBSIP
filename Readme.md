@@ -55,15 +55,15 @@ The dataset contains transaction-level information including:
 
 ### 1. Branch Wise Sales
 
-![Branch Wise Sales](images/branch_sales.png)
+![Branch Wise Sales](branch_sales.png)
 
 ### 2. Product Line Wise Sales
 
-![Product Line Sales](images/product_line_sales.png)
+![Product Line Sales](product_line_sales.png)
 
 ### 3. Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
