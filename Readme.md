@@ -99,29 +99,4 @@ The analysis revealed important sales patterns and product performance trends. T
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-### Run Jupyter Notebook
 
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-OIBSIP_DataAnalytics_Level1_Project1.ipynb
-```
-
----
-
-## Author
-
-**Wajid Ansari**
-
-Computer Science Graduate | Data Analytics Enthusiast
-
-Skills:
-- Python
-- SQL
-- Excel
-- Power BI
-- Tableau
